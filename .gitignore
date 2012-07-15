@@ -1,3 +1,8 @@
+*.out
+*.pdb
+*.PDB
+*.exe
+
 # Compiled Object files
 *.slo
 *.lo
